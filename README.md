@@ -87,6 +87,4 @@ The task of **brain tumor detection** from MRI images can be seen as a **binary 
 
 Brain tumor detection using CNNs can **support radiologists** by providing a second opinion, **reduce diagnosis time**, and **improve accuracy** — especially in regions with limited medical infrastructure.
 
----
 
-Let me know if you'd like this as a formatted PDF or slide deck, or if you want to explain it even more technically (with formulas, architecture diagrams, etc.).
